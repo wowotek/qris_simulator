@@ -1,10 +1,13 @@
 # QRIS Simulator
 
+![head](head.png)
+
 Simulator untuk melakukan _premeditative double check_ untuk
 aplikasi yang akan di integrasikan ke QRIS Payment Gateway,
 serta untuk mengurangi biaya dan waktu development.
 
 **Kata Kata yang diambil dari website official QRIS :**
+
 >> PERHATIAN
 >>
 >> Harap diperhatikan bahwa API QRIS ini sifatnya adalah LIVE / PRODUCTION, saat Anda melakukan SCAN terhadap QRIS yang muncul, maka saldo e-wallet Anda akan benar-benar berkurang dan tidak dapat dikembalikan (tidak ada refund).
